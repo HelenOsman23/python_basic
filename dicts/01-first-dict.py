@@ -1,4 +1,4 @@
-# Un diccionario es como una lista, pero más general, es decir, en un diccionario los indices pueden ser casí de cualqui9er tipo.
+# Un diccionario es como una lista, pero más general, es decir, en un diccionario los indices pueden ser casí de cualquier tipo.
 # En los diccionarios los indices son llamados "llaves" o "keys" y tiene asociado sus respectivos valores.
 
 # Ejemplo:

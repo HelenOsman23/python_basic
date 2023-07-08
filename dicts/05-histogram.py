@@ -3,6 +3,7 @@
 
 word = input("Dame una pinche palabra wey!: ")
 
+# Esta variable actúa como acumulador, pero en forma de diccionario
 letter_counter = {}
 
 for letter in word: 
@@ -11,4 +12,5 @@ for letter in word:
     else:
         letter_counter [letter] = 1
 
-print(letter_counter)        
+for letter in letter_counter:
+    print(f"{letter}: {letter_counter[letter]}")       
